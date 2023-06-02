@@ -1,5 +1,5 @@
 # Predictive analysis of House prices in King County
-
+![Alt Text](https://www.shutterstock.com/image-photo/panoramic-photo-modern-house-outdoor-indoor-441508093/image.jpg)
 
 ## Project Overview
 
