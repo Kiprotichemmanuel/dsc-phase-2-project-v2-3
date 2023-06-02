@@ -1,5 +1,5 @@
 # Predictive analysis of House prices in King County
-![Alt Text](https://shutterstock.com/image-photo/panoramic-photo-modern-house-outdoor-indoor-441508093/image.jpg]
+![Alt Text](https://shutterstock.com/image-photo/panoramic-photo-modern-house-outdoor-indoor-441508093/image.jpg)
 ## Project Overview
 
 This project uses linear regression analysis to infer how certain variables impact housing prices and by how much. The aim is to gain insights and make predictions about the factors that affect house sales in King County area as well as lucrative neighbourhoods to invest in while using statistical techniques to support relevant recommendations.
